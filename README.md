@@ -8,6 +8,14 @@ Developer • Tool Builder • Vibe Coder
 Turning ideas into tools and experiments.
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Finora;Vibe+Coder;Tool+Builder;I+turn+ideas+into+software&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Finoraaa&color=blueviolet&style=flat-square"/>
+</p>
+
 ---
 
 ## 👋 About Me
@@ -78,7 +86,18 @@ https://github.com/Finoraaa/Finora-portfolio
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finoraaa&layout=compact&theme=tokyonight"/>
 
+<img src="https://streak-stats.demolab.com?user=Finoraaa&theme=tokyonight"/>
+
 </p>
+
+---
+
+## 🔭 Current Focus
+
+* building useful developer tools
+* experimenting with AI-assisted coding
+* improving full-stack development skills
+* turning ideas into real projects
 
 ---
 
@@ -90,6 +109,14 @@ https://github.com/Finoraaa/Finora-portfolio
 * learn while building
 
 ---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Finoraaa/Finoraaa/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 💭 Quote
 
 > “Ideas first. Code second. Perfection later.”
 
