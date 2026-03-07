@@ -33,13 +33,13 @@ I enjoy working on:
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,bash"/>
+<img src="https://skillicons.dev/icons?i=react,python,js,ts,html,css,prisma,tailwind,bash"/>
 </p>
 
 ### Frameworks & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,firebase"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,firebase,anaconda,codepen,discord,replit,supabase"/>
 </p>
 
 ### Tools
