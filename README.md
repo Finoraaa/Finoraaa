@@ -1,16 +1,100 @@
-## Hi there 👋
+<h1 align="center">🐺 Finora</h1>
 
-<!--
-**Finoraaa/Finoraaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Developer • Tool Builder • Vibe Coder
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Turning ideas into tools and experiments.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👋 About Me
+
+Hi, I'm **Finora**.
+
+I'm a **vibe coder** who enjoys building tools, experimenting with ideas, and turning random concepts into working software.
+
+Most of my projects start as small experiments and evolve into useful tools.
+
+I enjoy working on:
+
+* 🛠 developer tools
+* 🌐 experimental web apps
+* 🤖 automation projects
+* ⚡ fast prototypes
+* 🧠 AI-assisted development
+
+---
+
+## ⚡ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,bash"/>
+</p>
+
+### Frameworks & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,firebase"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,linux,vscode"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔧 Finora's Tool Bag
+
+A collection of experimental utilities and developer tools.
+
+Repository
+https://github.com/Finoraaa/Finora-s-tool-bag
+
+---
+
+### 🌐 Finora Portfolio
+
+My personal portfolio website where I showcase projects and experiments.
+
+Repository
+https://github.com/Finoraaa/Finora-portfolio
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Finoraaa&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finoraaa&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🧠 Development Style
+
+* build fast
+* experiment often
+* ship ideas quickly
+* learn while building
+
+---
+
+> “Ideas first. Code second. Perfection later.”
+
+---
+
+<p align="center">
+Built by Finora 🐺
+</p>
