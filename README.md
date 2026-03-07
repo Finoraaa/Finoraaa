@@ -112,9 +112,7 @@ https://github.com/Finoraaa/Finora-portfolio
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://github.com/Finoraaa/Finoraaa/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
+<img src="https://raw.githubusercontent.com/Finoraaa/Finoraaa/output/github-contribution-grid-snake-dark.svg">
 
 ---
 
