@@ -39,7 +39,7 @@ I enjoy working on:
 ### Frameworks & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,firebase,anaconda,codepen,discord,replit,supabase"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase,anaconda,codepen,discord,replit,supabase"/>
 </p>
 
 ### Tools
