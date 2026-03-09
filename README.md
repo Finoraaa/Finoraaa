@@ -81,13 +81,9 @@ https://github.com/Finoraaa/Finora-portfolio
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Finoraaa&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finoraaa&layout=compact&theme=tokyonight"/>
-
-<img src="https://streak-stats.demolab.com?user=Finoraaa&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Finoraaa&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finoraaa&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Finoraaa&theme=tokyonight" />
 </p>
 
 ---
